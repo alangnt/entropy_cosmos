@@ -2,7 +2,3 @@
 .venv/
 orbit.csv
 build/
-
-# compiled binaries
-universe
-renderer
